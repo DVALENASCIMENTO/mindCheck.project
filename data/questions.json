@@ -1,0 +1,82 @@
+{
+    "EstadoEmocional": [
+      {"pergunta": "Como eu me sinto na maior parte do tempo?", "respostas": ["Feliz", "Triste", "Ansioso", "Neutro"]},
+      {"pergunta": "Tenho me sentido mais irritado ou frustrado do que o normal?", "respostas": ["Sim", "Não"]},
+      {"pergunta": "Sinto que minha capacidade de desfrutar das coisas diminuiu?", "respostas": ["Sim", "Não"]},
+      {"pergunta": "Estou me sentindo constantemente sobrecarregado ou sobrecarregada?", "respostas": ["Sim", "Não"]},
+      {"pergunta": "Experimento mudanças repentinas de humor?", "respostas": ["Sim", "Não"]}
+    ],
+    "NivelEstresse": [
+      {"pergunta": "Estou me sentindo estressado com frequência?", "respostas": ["Sim", "Não"]},
+      {"pergunta": "Quais são as principais fontes de estresse em minha vida atualmente?", "respostas": []},
+      {"pergunta": "Sinto que o estresse está afetando minha saúde física ou mental?", "respostas": ["Sim", "Não"]},
+      {"pergunta": "Consigo identificar estratégias eficazes para lidar com meu estresse?", "respostas": ["Sim", "Não"]},
+      {"pergunta": "Sinto que meu estresse está afetando minha capacidade de realizar minhas atividades diárias?", "respostas": ["Sim", "Não"]}
+    ],
+    "QualidadeSono": [
+      {"pergunta": "Estou dormindo bem?", "respostas": ["Sim", "Não"]},
+      {"pergunta": "Tenho dificuldade para adormecer ou manter o sono durante a noite?", "respostas": ["Sim", "Não"]},
+      {"pergunta": "Sinto-me cansado ao acordar, mesmo após uma noite de sono?", "respostas": ["Sim", "Não"]},
+      {"pergunta": "Tenho pesadelos ou sono interrompido frequentemente?", "respostas": ["Sim", "Não"]},
+      {"pergunta": "A qualidade do meu sono está afetando meu humor ou produtividade durante o dia?", "respostas": ["Sim", "Não"]}
+    ],
+    "EnergiaMotivacao": [
+      {"pergunta": "Tenho energia suficiente para realizar minhas atividades diárias?", "respostas": ["Sim", "Não"]},
+      {"pergunta": "Estou me sentindo desmotivado para realizar tarefas que normalmente gosto?", "respostas": ["Sim", "Não"]},
+      {"pergunta": "Consigo manter uma rotina diária com facilidade?", "respostas": ["Sim", "Não"]},
+      {"pergunta": "Tenho dificuldade para iniciar ou concluir projetos ou tarefas?", "respostas": ["Sim", "Não"]},
+      {"pergunta": "Me sinto frequentemente fatigado ou esgotado?", "respostas": ["Sim", "Não"]}
+    ],
+    "Relacionamentos": [
+      {"pergunta": "Como estão meus relacionamentos com familiares e amigos?", "respostas": ["Muito boa", "Boa", "Neutra", "Ruim", "Muito ruim"]},
+      {"pergunta": "Estou me sentindo isolado ou desconectado das pessoas próximas a mim?", "respostas": ["Sim", "Não"]},
+      {"pergunta": "Tenho dificuldades em expressar meus sentimentos e necessidades aos outros?", "respostas": ["Sim", "Não"]},
+      {"pergunta": "Sinto que meus relacionamentos são mais estressantes do que satisfatórios?", "respostas": ["Sim", "Não"]},
+      {"pergunta": "Recebo apoio emocional suficiente de minha rede social?", "respostas": ["Sim", "Não"]}
+    ],
+    "ComportamentosHabitos": [
+      {"pergunta": "Estou me envolvendo em comportamentos que considero prejudiciais para minha saúde mental?", "respostas": ["Sim", "Não"]},
+      {"pergunta": "Tenho hábitos saudáveis, como alimentação balanceada e exercícios regulares?", "respostas": ["Sim", "Não"]},
+      {"pergunta": "Estou procrastinando ou evitando responsabilidades importantes?", "respostas": ["Sim", "Não"]},
+      {"pergunta": "Sinto que estou usando substâncias (como álcool ou drogas) como uma forma de lidar com meus sentimentos?", "respostas": ["Sim", "Não"]},
+      {"pergunta": "Estou cuidando adequadamente de minha higiene pessoal e saúde geral?", "respostas": ["Sim", "Não"]}
+    ],
+    "AutoimagemAutoestima": [
+      {"pergunta": "Como eu vejo a mim mesmo?", "respostas": ["Positivamente", "Negativamente", "Neutro"]},
+      {"pergunta": "Sinto-me confiante em minhas habilidades e capacidades?", "respostas": ["Sim", "Não"]},
+      {"pergunta": "Tenho pensamentos frequentes de autocrítica ou auto-desvalorização?", "respostas": ["Sim", "Não"]},
+      {"pergunta": "Como eu lido com minhas falhas e erros pessoais?", "respostas": ["Aceito e aprendo com eles", "Tento ignorar", "Me sinto muito mal", "Me culpo excessivamente"]},
+      {"pergunta": "Acredito que mereço sucesso e felicidade?", "respostas": ["Sim", "Não"]}
+    ],
+    "BemEstarGeral": [
+      {"pergunta": "Estou satisfeito com minha vida em geral?", "respostas": ["Muito satisfeito", "Satisfeito", "Neutro", "Insatisfeito", "Muito insatisfeito"]},
+      {"pergunta": "Estou alcançando os objetivos e metas que estabeleci para mim mesmo?", "respostas": ["Sempre", "Frequentemente", "Às vezes", "Raramente", "Nunca"]},
+      {"pergunta": "Sinto-me realizado nas diferentes áreas da minha vida, como trabalho, relacionamentos e lazer?", "respostas": ["Sim", "Não"]},
+      {"pergunta": "Tenho tempo suficiente para atividades que me trazem prazer e relaxamento?", "respostas": ["Sim", "Não"]},
+      {"pergunta": "Sinto que estou vivendo uma vida alinhada com meus valores e crenças pessoais?", "respostas": ["Sim", "Não"]}
+    ],
+    "SaudeMental": [
+      {"pergunta": "Nos últimos 2 semanas, com que frequência você se sentiu triste, deprimido ou sem esperança?", "respostas": ["Nunca", "Poucas vezes", "Às vezes", "Frequentemente", "Sempre"]},
+      {"pergunta": "Você tem experimentado mudanças súbitas e extremas em seu humor?", "respostas": ["Nunca", "Poucas vezes", "Às vezes", "Frequentemente", "Sempre"]},
+      {"pergunta": "Você se sente irritado ou frustrado com frequência?", "respostas": ["Nunca", "Poucas vezes", "Às vezes", "Frequentemente", "Sempre"]},
+      {"pergunta": "Tem se sentido desconectado de atividades ou pessoas que costumava gostar?", "respostas": ["Nunca", "Poucas vezes", "Às vezes", "Frequentemente", "Sempre"]}
+    ],
+    "MonitoramentoEstresse": [
+      {"pergunta": "Nos últimos 7 dias, com que frequência você se sentiu sobrecarregado(a) com suas responsabilidades diárias?", "respostas": ["Nunca", "Poucas vezes", "Às vezes", "Frequentemente", "Sempre"]},
+      {"pergunta": "Como você avalia seu nível de estresse atual em uma escala de 1 a 10, onde 1 é baixo e 10 é extremamente alto?", "respostas": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"]},
+      {"pergunta": "Você tem dificuldade em relaxar ou desconectar do trabalho e outras responsabilidades?", "respostas": ["Nunca", "Poucas vezes", "Às vezes", "Frequentemente", "Sempre"]},
+      {"pergunta": "Com que frequência você sente que seu estresse está afetando sua saúde física, como dores de cabeça, tensão muscular ou problemas digestivos?", "respostas": ["Nunca", "Poucas vezes", "Às vezes", "Frequentemente", "Sempre"]},
+      {"pergunta": "Você tem momentos em que se sente extremamente ansioso(a) ou inquieto(a) sem uma razão clara?", "respostas": ["Nunca", "Poucas vezes", "Às vezes", "Frequentemente", "Sempre"]},
+      {"pergunta": "Você consegue identificar claramente as causas do seu estresse e ansiedades?", "respostas": ["Sempre", "Frequentemente", "Às vezes", "Raramente", "Nunca"]},
+      {"pergunta": "Você se sente que tem estratégias eficazes para gerenciar seu estresse?", "respostas": ["Sempre", "Frequentemente", "Às vezes", "Raramente", "Nunca"]}
+    ],
+    "MonitoramentoAnsiedade": [
+      {"pergunta": "Nos últimos 7 dias, com que frequência você experimentou sentimentos de nervosismo, apreensão ou medo?", "respostas": ["Nunca", "Poucas vezes", "Às vezes", "Frequentemente", "Sempre"]},
+      {"pergunta": "Você tem dificuldades para se concentrar devido a pensamentos ansiosos?", "respostas": ["Nunca", "Poucas vezes", "Às vezes", "Frequentemente", "Sempre"]},
+      {"pergunta": "Você experimenta sintomas físicos como batimentos cardíacos acelerados, suor excessivo ou tremores devido à ansiedade?", "respostas": ["Nunca", "Poucas vezes", "Às vezes", "Frequentemente", "Sempre"]},
+      {"pergunta": "Você tem evitado situações ou lugares devido à ansiedade?", "respostas": ["Nunca", "Poucas vezes", "Às vezes", "Frequentemente", "Sempre"]},
+      {"pergunta": "Você sente que sua ansiedade está afetando suas relações pessoais ou profissionais?", "respostas": ["Nunca", "Poucas vezes", "Às vezes", "Frequentemente", "Sempre"]},
+      {"pergunta": "Você tem dificuldade em controlar ou reduzir sua ansiedade quando começa a sentir?", "respostas": ["Nunca", "Poucas vezes", "Às vezes", "Frequentemente", "Sempre"]}
+    ]
+  }
+  
